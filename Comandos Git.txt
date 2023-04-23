@@ -1,0 +1,17 @@
+Lista de comandos do Git.
+
+- git config --global user.name "digite o nome" (Determina o nome do usuário da máquina);
+- git config --global user.email "digite o email" (Determina o email do usuário da máquina);
+- git init (Cria a estrutura inicial do repositório Git no computador local);
+- git status (verifica o status das alterações realizadas no repositório);
+- git add . (adiciona arquivos ao histórico do projeto, na staging);
+- git commit (registra/ salva a alteração no repositório);
+- git log (permite visualizar as alterações feitas);
+- git show  número-do-commit (permite visualizar informações sobre qualquer commit);
+- git remote add origin "digitar o destino" (informa a pasta remota);
+- git remote -v (permite visualizar o repositório remoto);
+- git push -u origin main (publica as alterações no repositório remoto);
+- git pull (baixa as alterações no repositorio remoto);
+
+
+
