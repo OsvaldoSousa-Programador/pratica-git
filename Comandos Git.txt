@@ -12,6 +12,10 @@ Lista de comandos do Git.
 - git remote -v (permite visualizar o repositório remoto);
 - git push -u origin main (publica as alterações no repositório remoto);
 - git pull (baixa as alterações no repositorio remoto);
+- Essa linha é para treinar a criação de uma nova branch.
+- git checkout -b [nome da branch]
+- git checkout main 
+
 
 
 
