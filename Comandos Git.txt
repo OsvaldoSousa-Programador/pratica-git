@@ -1,4 +1,4 @@
-Lista de comandos do Git.
+-b Lista de comandos do Git.
 
 - git config --global user.name "digite o nome" (Determina o nome do usuário da máquina);
 - git config --global user.email "digite o email" (Determina o email do usuário da máquina);
@@ -13,7 +13,8 @@ Lista de comandos do Git.
 - git push -u origin main (publica as alterações no repositório remoto);
 - git pull (baixa as alterações no repositorio remoto);
 - Essa linha é para treinar a criação de uma nova branch.
--  git checkout -b [nome da branch]
+- git checkout -b [nome da branch]
+- git checkout main 
 
 
 
