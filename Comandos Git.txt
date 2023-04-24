@@ -16,8 +16,12 @@
 - git checkout -b [nome da branch]
 - git checkout main 
 - git merge [nome da branch] (comando para unificar as alterações feitas na branch no trunk)
-
-
+- git tag -a v1.0 -m "descrição da tag" (comando para criar uma tag de alteração no código)
+- git tag (mostra as tags criadas)
+- git show [numero da tag] (mostra informações sobre uma tag específica)
+- git push origin --tags (comando para subir as tags para o repositorio remoto)
+- para ver as tag basta acesser o repositorio remoto e clickar no nome tags no canto inferior direito
+- clickar em Releases para ter acesso as informações das tags no repositorio remoto. 
 
 
 
