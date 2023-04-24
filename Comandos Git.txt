@@ -15,6 +15,7 @@
 - Essa linha é para treinar a criação de uma nova branch.
 - git checkout -b [nome da branch]
 - git checkout main 
+- git merge [nome da branch] (comando para unificar as alterações feitas na branch no trunk)
 
 
 
