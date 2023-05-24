@@ -1,3 +1,3 @@
-# pratica-git
+# Pratica-git
 
-Arqruivo criado para praticar o comando git pull.
+Projeto criado para praticar comandos git.
